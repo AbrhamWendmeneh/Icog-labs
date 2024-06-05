@@ -26,11 +26,11 @@ RETURN type(r), n
 CREATE
 (abel:PERSON {
     name: "abel kasahun",
-    gender: "Female",
+    gender: "male",
     email: "abel.kasahun@gmail.com",
-    phone: "987654321",
-    github: "abelGithub",
-    linkedin: "abelLinkedin"
+    phone: "0911223344",
+    github: "https://github.com/Abrhamtest",
+    linkedin: "https://www.linkedin.com/in/abrham-alemayehu-b64a75228/"
 }),
 (abel)-[:ATTENDS]->(uni),
 (abel)-[:HAS_SKILL]->(python),
