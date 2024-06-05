@@ -3,9 +3,9 @@ CREATE
     name: "abrham wendmeneh",
     gender: "Male",
     email: "abrham.wendmeneh.a@gmail.com",
-    phone: "012345678",
-    github: "Github",
-    linkedin: "Linkedin"
+    phone: "0993833171",
+    github: "https://github.com/AbrhamWendmeneh",
+    linkedin: "https://www.linkedin.com/in/abrham-alemayehu-b64a75228/"
 }),
 (uni:Addis_Ababa_University {
     name: "Addis Ababa University",
